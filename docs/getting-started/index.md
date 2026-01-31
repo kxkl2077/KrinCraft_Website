@@ -11,4 +11,6 @@ import ServerStatusCard from '/.vitepress/components/ServerStatusCard.vue'
 
 <ServerStatusCard />
 
+延迟实际很低，不知道为什么这个显示的这么高
+
 ![服务器图标](https://www.onekrincraft.cn/images/logo.png "服务器图标")
