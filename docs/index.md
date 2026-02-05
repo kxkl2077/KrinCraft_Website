@@ -15,7 +15,7 @@ hero:
       link: /getting-started/
     - theme: alt
       text: 常见问题
-      link: /Q&A/
+      link: /faq/
 
 features:
   - title: 😄KrinCraft 服务器介绍
@@ -31,6 +31,5 @@ features:
     details: 这是一个 NES 模拟插件功能，让你在服务器里游玩超级玛丽、坦克大战等经典游戏！
     link: /bnes/
 ---
-
 
 <Home />

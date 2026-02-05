@@ -1,12 +1,5 @@
----
-layout: page
----
 <script setup>
-import {
-  VPTeamPage,
-  VPTeamPageTitle,
-  VPTeamMembers
-} from 'vitepress/theme'
+import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
@@ -28,15 +21,12 @@ const members = [
 ]
 </script>
 
-<VPTeamPage>
-  <VPTeamPageTitle>
-    <template #title>
-      关于
-    </template>
-    <template #lead>
-      本食用文档主要由kxkl2024编写，其还有的Baymaxawa帮忙
-      这个文档的目的只是为了玩家能够在Minecraft KrinCraft服务器中熟悉
-    </template>
-  </VPTeamPageTitle>
-  <VPTeamMembers :members />
-</VPTeamPage>
+
+# 关于
+本食用文档主要由kxkl2024编写，还有Baymaxawa的帮忙
+
+这个文档的目的是为了玩家能够在Minecraft KrinCraft服务器中熟悉各种操作
+
+但愿能对你有帮助😊
+
+<VPTeamMembers size="small" :members />
