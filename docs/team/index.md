@@ -15,7 +15,7 @@ const members = [
     name: 'Baymaxawa',
     title: '贡献者',
     links: [
-      { icon: 'github', link: 'https://github.com/arvelut-123' }
+      { icon: 'github', link: 'https://github.com/Aruvelut-123' }
     ]
   },
 ]
