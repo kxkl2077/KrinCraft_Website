@@ -1,28 +1,41 @@
 # 🐧互通介绍
 
 ## 关于绑定
-为提高破坏者的注册成本，服务器启用了 QQ 群或抖音群的验证绑定。绑定流程：
+为提高破坏者的注册成本，服务器启用了 QQ 群或抖音群的验证绑定。  
+  
+绑定流程：  
 
 1. 进入服务器，注册或登录后选择进入 1 服 或 2 服。
 2. 进入对应子服后，你会看到类似以下的提示（示例）：
 
-```
-Krin Craft
-
-未绑定社交帐号 | test
-
-进入该子服需要绑定您的社交帐号
-
-请先加群655038860
-
-或者抖音加群632532512371
-
-发送内容:绑定 12345
-
-发送后方可进入服务器
-
-请注意名称大小写
-```
+<div style="background-image: url('/public/images/auth-background.png');
+  background-size: cover;
+  background-position: center;
+  border: 1px solid #888888;
+  border-radius: 8px;
+  padding: 40px 10px 40px 10px;
+  text-align: center;
+  color: white;">
+  <div style="
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(8px);
+    border-radius: 8px;
+    margin-top: -20px;
+    margin-bottom: -20px;
+    pointer-events: none;
+  ">
+<center><span style="color: #55FFFF; font-weight: bold">Krin</span> <span style="color: #FFAA00; font-weight: bold">Craft</span></center>  
+<center><span style="color: #FFAA00; font-weight: bold">未绑定社交帐号 | test</span></center>  
+<center><span style="color: #55FF55;">进入该子服需要绑定您的社交帐号</span></center>  
+<center><br></center>
+<center><span style="color: #FFFFFF;">请先加Q群</span><span style="color: #FFFF55;">655038860</span></center>  
+<center><span style="color: #FFFFFF;">或者抖音加群</span><span style="color: #FFFF55;">632532512371</span></center>  
+<center><span style="color: #FFFFFF;">发送内容:</span><span style="color: #55FF55;">绑定 12345</span></center>  
+<center><span style="color: #FFFFFF;">发送后方可进入服务器</span></center>  
+<center><br></center>
+<center><span style="color: #AAAAAA; font-weight: bold">【</span><span style="color: #FF5555; font-weight: bold">!</span><span style="color: #AAAAAA; font-weight: bold">】请注意名称大小写</span></center>  
+</div>
+</div>
 
 3. 使用手机或电脑加入 QQ 群，入群后会有机器人出一道算术题（用于防止自动化加群）。
 4. 完成验证后，在群内发送：
