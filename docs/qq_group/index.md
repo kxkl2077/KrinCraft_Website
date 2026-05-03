@@ -8,6 +8,14 @@
 1. 进入服务器，注册或登录后选择进入 1 服 或 2 服。
 2. 进入对应子服后，你会看到类似以下的提示（示例）：
 
+<style>
+  @font-face {
+    font-family: 'Minecraft';
+    src: url('/public/Minecraft.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+</style>
 <div style="background-image: url('/public/images/auth-background.png');
   background-size: cover;
   background-position: center;
@@ -15,7 +23,9 @@
   border-radius: 8px;
   padding: 40px 10px 40px 10px;
   text-align: center;
-  color: white;">
+  color: white;
+  font-family: 'Minecraft';
+  ">
   <div style="
     background-color: rgba(0, 0, 0, 0.5);
     backdrop-filter: blur(8px);
