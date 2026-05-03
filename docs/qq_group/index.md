@@ -11,12 +11,12 @@
 <style>
   @font-face {
     font-family: 'Minecraft';
-    src: url('/public/Minecraft.ttf') format('truetype');
+    src: url('/Minecraft.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
   }
 </style>
-<div style="background-image: url('/public/images/auth-background.png');
+<div style="background-image: url('/images/auth-background.png');
   background-size: cover;
   background-position: center;
   border: 1px solid #888888;
