@@ -34,8 +34,8 @@
     margin-bottom: -20px;
     pointer-events: none;
   ">
-<center><span style="color: #55FFFF; font-weight: bold">Krin</span> <span style="color: #FFAA00; font-weight: bold">Craft</span></center>  
-<center><span style="color: #FFAA00; font-weight: bold">未绑定社交帐号 | test</span></center>  
+<center><span style="color: #55FFFF; font-weight: bold">Stalir</span></center>  
+<center><span style="color: #FFAA00; font-weight: bold">未绑定社交帐号 | 你的名字</span></center>  
 <center><span style="color: #55FF55;">进入该子服需要绑定您的社交帐号</span></center>  
 <center><br></center>
 <center><span style="color: #FFFFFF;">请先加Q群</span><span style="color: #FFFF55;">655038860</span></center>  
