@@ -6,4 +6,4 @@ Stalir是 Kxkl2077 在 2023年5月建立的一个服务器
 
 ## 服务器状态
 
-<iframe src="https://www.minecraftplot.com/server-status-embed/embed.php?ip=mc.onekrincraft.cn&type=java&style=large&layout=card&theme=system&link=https%3A%2F%2Fwww.onekrincraft.cn" width="100%" height="210" frameborder="0" scrolling="no" style="max-width: 450px; border-radius: 12px; overflow: hidden;"></iframe>
+<iframe src="https://www.minecraftplot.com/server-status-embed/embed.php?ip=mc.stalir.cn&type=java&style=medium&layout=card&theme=system&link=https%3A%2F%2Fwww.stalir.cn" width="100%" height="140" frameborder="0" scrolling="no" style="max-width: 450px; border-radius: 12px; overflow: hidden;"></iframe>
