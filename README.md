@@ -1,2 +1,2 @@
-# 适用于KrinCraft服务器功能的操作说明文档
-就是这样....嗯....
+# 适用于Minecraft Stalir服务器的食用文档
+欢迎fork以及提交Pr
