@@ -13,7 +13,7 @@
 1. 执行 `/bnes create <实例名>` 后，背包中会出现 4 张地图
 2. 找一面墙，放上 4 个物品展示框，排列如下：
 
-![bnes图标](https://www.onekrincraft.cn/images/bnes.png)
+![bnes图标](https://docs.stalir.cn/images/bnes.png)
 
 3. 将 4 张地图分别放入展示框中
 4. 在地图前放置 2 个楼梯
