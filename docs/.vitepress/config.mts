@@ -4,8 +4,8 @@ import dayjs from 'dayjs'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: 'zh_CN',
-  title: "Stalir 食用文档",
-  description: "操作文档",
+  title: "Stalir 玩家文档",
+  description: "Stalir 服务器玩家使用指南",
   head: [
     [
       'link',
@@ -19,21 +19,21 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '食用文档', link: '/getting-started/' },
+      { text: '玩家文档', link: '/getting-started/' },
       { text: '论坛', link: 'https://forum.kxkl2024.cn' },
       { text: '关于', link: '/team/' }
     ],
     sidebar: [
       {
-        text: '食用文档',
+        text: '玩家指南',
         collapsed: false,
         items: [
-          { text: '😄Stalir介绍', link: '/getting-started/' },
-          { text: '🗨️指令介绍', link: '/commands/' },
-          { text: '💰货币介绍', link: '/money/' },
-          { text: '🎮街机介绍', link: '/bnes/' },
-          { text: '🐧互通介绍', link: '/qq_group/' },
-          { text: '😊服务器特有配方', link: '/customrecipe/' },
+          { text: '😄 Stalir 服务器介绍', link: '/getting-started/' },
+          { text: '🗨️ 常用指令', link: '/commands/' },
+          { text: '💰 货币与商店', link: '/money/' },
+          { text: '🎮 街机指南', link: '/bnes/' },
+          { text: '🐧 账号绑定与群内查询', link: '/qq_group/' },
+          { text: '😊 服务器特殊配方', link: '/customrecipe/' },
           {
             text: '🧰新模组服',
             collapsed: false,
@@ -58,7 +58,7 @@ export default defineConfig({
       prev: '上一篇', next: '下一篇'
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/kxkl2077/KrinCraft_Website' },
+      { icon: 'github', link: 'https://github.com/Aruvelut-123/Stalir_Docs' },
       { icon: 'bilibili', link: 'https://space.bilibili.com/2012569194' },
       { icon: 'qq',link: 'https://qm.qq.com/q/rcC29iyJk' }
     ],
