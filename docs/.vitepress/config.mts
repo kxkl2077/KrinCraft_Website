@@ -50,7 +50,6 @@ export default defineConfig({
         text: '其它',
         collapsed: false,
         items: [
-          { text: '常见问题', link: '/faq/' },
           { text: '关于', link: '/team/' }
         ]
       }
