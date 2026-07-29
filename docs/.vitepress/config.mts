@@ -34,7 +34,15 @@ export default defineConfig({
           { text: '🎮街机介绍', link: '/bnes/' },
           { text: '🐧互通介绍', link: '/qq_group/' },
           { text: '😊服务器特有配方', link: '/customrecipe/' },
-          { text: '😘模组服介绍', link: '/mod/' }
+          {
+            text: '🧰新模组服',
+            collapsed: false,
+            items: [
+              { text: '领地系统使用说明', link: '/new-mod/' },
+              { text: '领地物品配方与功能', link: '/new-mod/goml-recipes' }
+            ]
+          },
+          { text: '📦旧模组服介绍', link: '/mod/' }
 
         ]
       },
