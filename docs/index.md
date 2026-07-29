@@ -14,8 +14,8 @@ hero:
       text: 开始阅读
       link: /getting-started/
     - theme: alt
-      text: 新模组服领地系统
-      link: /new-mod/
+      text: 关于 Stalir
+      link: /team/
 
 features:
   - title: 😄 Stalir 服务器介绍
