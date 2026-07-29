@@ -1,9 +1,15 @@
-# 😄Stalir 服务器介绍
+# 😄 Stalir 服务器介绍
 
-Stalir是 Kxkl2077 在 2023年5月建立的一个服务器
-这是一个完全公益的服务器，但我们希望你能赞助我们一些qwq
+Stalir 是 Kxkl2077 于 2023 年 5 月创建的公益 Minecraft 服务器。服务器不以营利为目的；如果你认可这里的游玩体验，也可以自愿赞助服务器的持续运营。
 
+## 新玩家从这里开始
+
+- 完成注册或登录后，进入子服前需要进行社交账号验证，具体步骤见[互通与账号绑定](/qq_group/)；
+- 进入服务器后，可以在[常用指令](/commands/)中查看传送、家、菜单等功能；
+- 遇到文档没有覆盖的问题，可以前往[论坛](https://forum.kxkl2024.cn)反馈。
 
 ## 服务器状态
 
-<iframe src="https://www.minecraftplot.com/server-status-embed/embed.php?ip=mc.stalir.cn&type=java&style=medium&layout=card&theme=system&link=https%3A%2F%2Fwww.stalir.cn" width="100%" height="140" frameborder="0" scrolling="no" style="max-width: 450px; border-radius: 12px; overflow: hidden;"></iframe>
+下方状态卡片会显示 `mc.stalir.cn` 的在线状态和当前人数。
+
+<iframe title="Stalir 服务器状态" src="https://www.minecraftplot.com/server-status-embed/embed.php?ip=mc.stalir.cn&type=java&style=medium&layout=card&theme=system&link=https%3A%2F%2Fwww.stalir.cn" width="100%" height="140" frameborder="0" scrolling="no" style="max-width: 450px; border-radius: 12px; overflow: hidden;"></iframe>

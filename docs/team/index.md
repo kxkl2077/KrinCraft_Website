@@ -22,11 +22,12 @@ const members = [
 </script>
 
 
-# 关于
-本食用文档主要由kxkl2024编写，还有Baymaxawa的帮忙
+# 关于 Stalir 文档
 
-这个文档的目的是为了玩家能够在Minecraft KrinCraft服务器中熟悉各种操作
+这份文档用于帮助玩家了解 Stalir 的账号绑定、常用指令、服务器货币、街机和模组服等功能。
 
-但愿能对你有帮助😊
+文档主要由 kxkl2024 编写，Baymaxawa 参与维护与完善。如果内容已经过时、存在错误，或没有解决你的问题，欢迎通过[论坛](https://forum.kxkl2024.cn)反馈。
+
+## 文档维护者
 
 <VPTeamMembers size="small" :members />
