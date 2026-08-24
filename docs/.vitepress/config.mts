@@ -58,7 +58,7 @@ export default defineConfig({
       prev: '上一篇', next: '下一篇'
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Aruvelut-123/Stalir_Docs' },
+      { icon: 'github', link: 'https://github.com/kxkl2077/Stalir_Docs' },
       { icon: 'bilibili', link: 'https://space.bilibili.com/2012569194' },
       { icon: 'qq',link: 'https://qm.qq.com/q/rcC29iyJk' }
     ],
